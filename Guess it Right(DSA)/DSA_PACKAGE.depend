@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1619952998 source:c:\users\m raghavan\desktop\dsa package\dsa_package\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	"controlcoord.h"
+
+1619952890 c:\users\m raghavan\desktop\dsa package\dsa_package\controlcoord.h
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+
+1620473178 source:c:\users\kishor k r\desktop\dsa_package\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"controlcoord.h"
+
+1619952890 c:\users\kishor k r\desktop\dsa_package\controlcoord.h
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+
+1620473178 source:d:\dsa_package\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"controlcoord.h"
+
+1619952890 d:\dsa_package\controlcoord.h
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+
+1620473178 source:d:\guess it right(dsa)\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"controlcoord.h"
+
+1619952890 d:\guess it right(dsa)\controlcoord.h
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+
